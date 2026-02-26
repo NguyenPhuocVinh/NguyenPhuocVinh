@@ -121,14 +121,13 @@ const vinh: FullStackDeveloper = {
 
 ## `$ git log --stats`
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NguyenPhuocVinh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNguyenPhuocVinh%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00D9FF%26icon_color%3D00D9FF" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNguyenPhuocVinh%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00D9FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenPhuocVinh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNguyenPhuocVinh%26theme%3Dtokyonight%26hide_border%3Dtrue%26stroke%3D00D9FF%26ring%3D00D9FF%26fire%3DFF6B6B%26currStreakLabel%3D00D9FF" />
+</p>
 
 ---
 
